@@ -1,0 +1,7 @@
+body {
+	margin: 10px;
+}
+
+.jc-required > .control-label:after {
+	content: "*";
+}
